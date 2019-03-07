@@ -9,5 +9,6 @@ package com.test;
 public class TestMain2 {
     public static void main(String[] args) {
         System.out.println("测试2");
+        System.out.println("ces 123123");
     }
 }
